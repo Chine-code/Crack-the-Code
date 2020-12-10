@@ -1,0 +1,15 @@
+You choose the number of digits u want to use to play
+(Supports two to five digits)
+
+You choose a code whose max digits are the one you provided earlier
+(no repitition are allowed and the number zero is not allowed)
+
+You try to guess your opponent code by calling random values and thinking the way all through
+- if a digit in your call matches the exact position of your opponent code,its a pot 
+- if a digit is present in your opponent call but does not match the exact position,its a pan
+
+-Winner is the first to get the opponent digit
+
+check "Result.txt" for demo
+
+// g++ -g -std=c++17 -I include src/*.cpp (to compile)

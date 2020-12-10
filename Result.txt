@@ -1,0 +1,13 @@
+Username(2378)                                    AI(Artificial Intelligence) [****]
+
+1275->0 pot and 1 pan                             7829->0 pot and 3 pans
+
+2698->0 pot and 3 pans                             9786->0 pot and 2 pans
+
+3986->3 pots and 0 pan                             8942->0 pot and 2 pans
+
+4986->3 pots and 0 pan                             2597->1 pot and 1 pan
+
+5986->3 pots and 0 pan                             2378->4 pots and 0 pan
+
+AI code is 7986
